@@ -1,16 +1,19 @@
 h1{
-  color: blue;
+  color: black;
   text-align: center;
 }
 h2{
 
 font-style: italic;
-font-align:center;
-color: teal;
+text-align:center;
+color: burlywood;
 }
 p{
-  color: gray;
+  color: blanchedalmond;
 }
 body{
-  background-color: skyblue;
+  background-color: black;
+  font-family:sans-serif;
+  text-align: center;
 }
+
